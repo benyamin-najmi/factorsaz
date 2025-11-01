@@ -78,5 +78,3 @@ dotnet run
 - Entity Framework Core
 - SQLite
 - Swagger/OpenAPI
-
-## مجوز
